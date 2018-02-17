@@ -1,0 +1,6 @@
+D:\Brassai\Brassai2017-2018\C & C#\C#\2013.oktober.info.ismeretek.emelt.3\CSharp.solution.2013.oktober.emelt.info.ismeretek\Amoba.2013.oktober.prog.3.fa\bin\Debug\Amoba.2013.oktober.prog.3.fa.exe.config
+D:\Brassai\Brassai2017-2018\C & C#\C#\2013.oktober.info.ismeretek.emelt.3\CSharp.solution.2013.oktober.emelt.info.ismeretek\Amoba.2013.oktober.prog.3.fa\bin\Debug\Amoba.2013.oktober.prog.3.fa.exe
+D:\Brassai\Brassai2017-2018\C & C#\C#\2013.oktober.info.ismeretek.emelt.3\CSharp.solution.2013.oktober.emelt.info.ismeretek\Amoba.2013.oktober.prog.3.fa\bin\Debug\Amoba.2013.oktober.prog.3.fa.pdb
+D:\Brassai\Brassai2017-2018\C & C#\C#\2013.oktober.info.ismeretek.emelt.3\CSharp.solution.2013.oktober.emelt.info.ismeretek\Amoba.2013.oktober.prog.3.fa\obj\Debug\Amoba.2013.oktober.prog.3.fa.csprojResolveAssemblyReference.cache
+D:\Brassai\Brassai2017-2018\C & C#\C#\2013.oktober.info.ismeretek.emelt.3\CSharp.solution.2013.oktober.emelt.info.ismeretek\Amoba.2013.oktober.prog.3.fa\obj\Debug\Amoba.2013.oktober.prog.3.fa.exe
+D:\Brassai\Brassai2017-2018\C & C#\C#\2013.oktober.info.ismeretek.emelt.3\CSharp.solution.2013.oktober.emelt.info.ismeretek\Amoba.2013.oktober.prog.3.fa\obj\Debug\Amoba.2013.oktober.prog.3.fa.pdb
